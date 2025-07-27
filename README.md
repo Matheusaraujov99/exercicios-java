@@ -70,6 +70,7 @@ Quais das opções você escolhe:
 0 - sair do programa
 0
 Você optou por sair do programa!
+```
 
 Autor
 Matheus Araújo Vieira
