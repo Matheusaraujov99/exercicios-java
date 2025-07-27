@@ -72,6 +72,6 @@ Quais das opções você escolhe:
 Você optou por sair do programa!
 ```
 
-Autor
+Autor:
 Matheus Araújo Vieira
-LinkedIn | GitHub
+
