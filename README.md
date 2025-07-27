@@ -34,7 +34,7 @@ Este é um projeto simples em Java que oferece um menu interativo para calcular 
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seuusuario/nome-do-repositorio.git
+   git clone https://github.com/Matheusaraujov99/exercicios-java.git
 
    Abra o projeto na sua IDE preferida.
 
