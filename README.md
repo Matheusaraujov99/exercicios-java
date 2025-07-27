@@ -38,8 +38,13 @@ Este é um projeto simples em Java que oferece um menu interativo para calcular 
 
    Abra o projeto na sua IDE preferida.
 
-2.Compile e execute a classe menu_duas_opcoes.java.
+2. Compile e execute a classe `menu_duas_opcoes.java`.
 
+---
+
+## Exemplo de uso
+
+```bash
 Quais das opções você escolhe:
 1 - para calcular a área do quadrado
 2 - para calcular a área do círculo
@@ -69,4 +74,3 @@ Você optou por sair do programa!
 Autor
 Matheus Araújo Vieira
 LinkedIn | GitHub
-
